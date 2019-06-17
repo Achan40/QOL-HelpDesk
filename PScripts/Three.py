@@ -90,6 +90,7 @@ def Ezticket():
         EndUser.clear() #clears out user affected feild
         EndUser.send_keys('\\'+TheirNID2)#sends end user netid to text boxt
         driver.find_element_by_id("imgBtn0").click()#click on save button
+#The next block of code needs testing before completion
         #try:
             #wait = WebDriverWait(driver, 10)
             #wait.until(EC.presence_of_element_located((By.ID,'')))
