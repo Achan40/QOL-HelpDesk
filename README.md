@@ -35,11 +35,13 @@ started on the installation process.
 	* if you get an exception, take a look at test.py for code to run driver w/out path. You have to add extra backslashes for some reason for it to run correctly.
 7. Now you are all setup, feel free to open the .py in idle or .bat file or whatever method I decide to use
 to launch the script. 
+
+Note: When you launch the script the first time, there might be a windows firewall that pops up. Uhh forgot what settings you have to select, just try to let if run on all networks if possible. If you click the wrong settings you're kinda screwed so don't do that...
 	
-Note Selenium is free for commerical use under the Apache2.0 liscense as far as I know
+Note: Selenium is free for commerical use under the Apache2.0 liscense as far as I know
 This script is open source, all yours to play around with.(really only works on UI help desk network though) -Aaron
 
 WHEN YOU MOVE TO A DIFFERENT USER MAKE SURE YOU UPDATE THE webdriver.Chrome() location area
 
 Where is one.py?
-Wouldn't you like to know :)
+...
