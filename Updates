@@ -6,6 +6,8 @@ Three.py
 
 ThreePointFive.py
 -Need to add auto quit and loop before complete. Must undergo testing.
+-Ran into issue where if someone is editing the first ticket, program just autoloops.......
+-maybe safer to choose the last starting point in the list?
 
 Four.py
 -In ideas phase, script to autofill service request followup given request number as well as description.
