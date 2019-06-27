@@ -60,7 +60,7 @@ def Ezticket():
     INCI = [item[:8] for item in INCI]#limits characters of ticket number
     
     indeX = [SUMM.index(i) for i in SUMM if '48269' in i] #creates list which looks for the KB number
-    indeX = indeX[0]#takes the first position in that list
+    indeX = indeX[-1]#takes the first position in that list
 
     TicketDes = INCI[indeX]#Using index, matches ticket number with ticket description and returns ticket number
 
