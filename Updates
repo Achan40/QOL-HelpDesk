@@ -2,7 +2,10 @@ Two.py
 -No updates planned, I like how it funcitons
 
 Three.py
--Currently updating, planning to add the ability for the script to select the first ticket given the description and to auto fill out information.
+-ThreePointFive is the updated script
+
+ThreePointFive.py
+-Need to add auto quit and loop before complete. Must undergo testing.
 
 Four.py
 -In ideas phase, script to autofill service request followup given request number as well as description.
