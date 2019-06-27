@@ -43,7 +43,7 @@ def Ezticket():
         print("frame switch error")
         Ezticket()
 
-    summary = driver.find_elements_by_xpath("//tr/td[5]")#create list for summary column, a selenium list so we have to change it to text
+    summary = driver.find_elements_by_xpath("//tr/td[4]")#create list for summary column, a selenium list so we have to change it to text
     ticketNum = driver.find_elements_by_xpath("//tr/td[1]")#create list for ticket number
     
     SUMM = []#empty list
