@@ -13,6 +13,7 @@ url1 = 'https://cerebro.techservices.illinois.edu'
 url2 = 'https://www.icard.uillinois.edu/Login'
 url3 = 'https://ede.cites.illinois.edu'
 url4 = 'https://identity.uillinois.edu:11443/iamAccountSupport/jsp/index.jsp'
+url3five = 'https://webmail.illinois.edu/ADTools/'
 #note if you change/add a url you will have to change the function'd code
 
 def searchIDUIN():
