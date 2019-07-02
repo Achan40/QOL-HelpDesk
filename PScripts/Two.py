@@ -56,7 +56,14 @@ def searchIDUIN():
     ID3 = driver.find_element_by_name("entry")
     ID3.send_keys(IDUIN)#sends IDUIN to search box
     driver.find_element_by_css_selector("input[name='submit'][type='SUBMIT']").click()#click search box,actualy had to find by CSS, since not Id element
-#============================ below runs restart conditions
+#============================ 
+    driver.execute_script("window.open('about:blank', 'tab3five');")#opens third point five tab
+    driver.switch_to.window("tab3five")
+    driver.get(url3five)
+    ID3five = driver.find_element_by_id("Name")
+    ID3five.send_keys(IDUIN)
+    driver.find_element_by_id("buttonnameSubmit").click()
+#================================
     driver.execute_script("window.open('about:blank', 'tab4');")#opens fourth tab
     driver.switch_to.window("tab4")
     driver.get(url4)
