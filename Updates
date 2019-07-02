@@ -5,7 +5,8 @@ Three.py
 -ThreePointFive is the updated script
 
 ThreePointFive.py
--find a way to fix issue where program can't continue if someone is editing a ticket. Next() function
+-find a way to fix issue where program can't continue if someone is editing a ticket. Use Next() function? Also running into issue where program 
+continues to run when it should stop.
 
 Four.py
 -In ideas phase, script to autofill service request followup given request number as well as description.
