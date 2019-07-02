@@ -5,7 +5,7 @@ Three.py
 -ThreePointFive is the updated script
 
 ThreePointFive.py
--find a way to fix issue where program can't continue if someone is editing a ticket.
+-find a way to fix issue where program can't continue if someone is editing a ticket. Next() function
 
 Four.py
 -In ideas phase, script to autofill service request followup given request number as well as description.
