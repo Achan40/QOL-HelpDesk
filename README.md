@@ -10,6 +10,9 @@ What does this program do (three.py)?
 Auto fills PASSWORD SCRAMBLED tickets with your information. Super proud of this one, but there are occasional bugs, don't worry I've written exceptions for most of them
 :D. 
 
+What does this program do (threepointfive.py)?
+The updated version of three.py, automatically indexes and matches to select a ticket and autofills it. Super proud of this one. 
+
 Security Issues?
 Don't think so, you input your personal Netid and password information only once, and that data is lost the moment
 you exit out of the console. Clients NetID/UIN information are only saved for the instance, once you exit out, everything 
