@@ -1,8 +1,8 @@
 Two.py
--No updates planned, I like how it funcitons
+-Add AD Tool?
 
 Three.py
--ThreePointFive is the updated script
+-ThreePointFive is the updated script, Three.py is now obselete
 
 ThreePointFive.py
 -find a way to fix issue where program can't continue if someone is editing a ticket. Use Next() function? Also running into issue where program 
