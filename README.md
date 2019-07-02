@@ -24,7 +24,7 @@ Don't really know what to tell you, I don't exactly know another easier way to d
 started on the installation process.
 
 
-1. Install Python (ONLY YOUR USER)
+1. Install Python 3.7.3 (ONLY YOUR USER)
 	*Choose add to PATH when installing, this is extremely important (enviornment variables)
 2. Download the get-pip.py file
 	*included in folder 
