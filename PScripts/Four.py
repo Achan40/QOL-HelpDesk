@@ -32,5 +32,5 @@ def SRF():
     driver.find_element_by_id("P3500_PRE_ORDER_ISSUE_Q").send_keys(LastPart)#inputs the last part of the preoder number in text box
 
     driver.find_element_by_xpath("//table[@id='B16375844782067448']/tbody/tr/td[2]/a").click()#clicks on search
-    driver.find_element_by_xpath("//table[@id='LF_R34475028101458826']/tbody/tr[2]/td[7]/a").click()
+    driver.find_element_by_xpath("//table[@id='LF_R34475028101458826']/tbody/tr[2]/td[a=)]").click()
 SRF()#call function so it can start on boot
