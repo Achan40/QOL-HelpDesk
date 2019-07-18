@@ -106,14 +106,6 @@ def Ezticket():
         driver.quit()
         print("Can't Edit Most Likely Someone is Already Editing Ticket")
         Ezticket()
-#Below condition only needed until auto quit is set up
-    #startagain = input("Enter anything to search again, Enter q to quit: ")#restart conditiion b/c the way I wanted it to work didn't work
-    #if startagain != "q":#restart condition b/c wait function doesn't work, by not auto quitting, you can verify information first
-        #driver.quit()
-        #Ezticket()
-    #else:
-        #driver.quit()
-        #print("Type Ezticket() to run again")
- 
-Ezticket()#Required to start funciton on launch
+
+Ezticket()#Required to start program on launch
 
