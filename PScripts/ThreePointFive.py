@@ -58,7 +58,7 @@ def Ezticket():
         Incident = Incident.get_attribute("title")
         INCI.append(Incident)
     INCI = list(filter(None, INCI))
-    INCI = [item[:8] for item in INCI]#limits characters of ticket number
+    INCI = [item[:8] for item in INCI]#limits characters of ticket number. this is done so that special characters are removed.
     
     indeX = [SUMM.index(i) for i in SUMM if '48269' in i] #creates list which looks for the KB number
 
