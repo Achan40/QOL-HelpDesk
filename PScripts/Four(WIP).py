@@ -72,6 +72,7 @@ def SRF():
 
     activities = driver.find_element_by_id("menu_2")
     #UpdateStatus = driver.find_element_by_id("amActivities_1")
+    NEED TO HOVER AND THEN SWITCH TO CHAIN... IDK HOW TO DO THIS WILL FIGURE IT OUT AFTER THE WEEKEND
 
     Hover = ActionChains(driver).move_to_element(activities).switch_to.frame(driver.find_element_by_id("cai_main")).move_to_element(UpdateStatus)
     Hover.click().perform()
