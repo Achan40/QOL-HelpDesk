@@ -17,8 +17,9 @@ Security Issues?
 Don't think so, you input your personal Netid and password information only once, and that data is lost the moment
 you exit out of the console. Clients NetID/UIN information are only saved for the instance, once you exit out, everything 
 is gone.
-
-
+---------------------------------------------------------------------------------------------------------------
+NOTE: There is now an executable file!!! Not sure if they work yet though...
+----------------------------------------------------------------------------------------------------------------
 Why is there so much to do before I can get the program running?
 Don't really know what to tell you, I don't exactly know another easier way to do this. With that said, let's get
 started on the installation process.
