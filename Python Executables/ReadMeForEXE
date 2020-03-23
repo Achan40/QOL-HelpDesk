@@ -1,6 +1,0 @@
-Not sure if these files work yet. They have not been tested on a fresh machine, they do work on the machine I used to build the code however...
-
-Look at this if it doesn't work: https://stackoverflow.com/questions/39563851/how-to-include-chromedriver-with-pyinstaller#comment69226954_39648291
-Make spec file?
-
-Used Pyinstaller to create them.
