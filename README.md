@@ -1,29 +1,13 @@
 # QOL-HelpDesk
 UIUC Help Desk Code
 
-What does this program do (two.py)?
-Allows a help desk employee to search multiple tools (Cerebro, Icard, EDE, etc...) for a clients NetID/UIN all
-at the same time. Yes I spent many hours writing code so I could save my self 30 seconds of copy and pasting,
-don't judge me.
-
-What does this program do (three.py)?
-Auto fills PASSWORD SCRAMBLED tickets with your information. Super proud of this one, but there are occasional bugs, don't worry I've written exceptions for most of them
-:D. 
-
-What does this program do (threepointfive.py)?
+What does this script do (autofillscrambles.py)?
 The updated version of three.py, automatically indexes and matches to select a ticket and autofills it. Super proud of this one. 
 
 Security Issues?
 Don't think so, you input your personal Netid and password information only once, and that data is lost the moment
 you exit out of the console. Clients NetID/UIN information are only saved for the instance, once you exit out, everything 
 is gone.
----------------------------------------------------------------------------------------------------------------
-NOTE: There is now an executable file!!! Not sure if they work yet though...
-----------------------------------------------------------------------------------------------------------------
-Why is there so much to do before I can get the program running?
-Don't really know what to tell you, I don't exactly know another easier way to do this. With that said, let's get
-started on the installation process.
-
 
 1. Install Python 3.7.3 (ONLY YOUR USER)
 	*Choose add to PATH when installing, this is extremely important (enviornment variables)
