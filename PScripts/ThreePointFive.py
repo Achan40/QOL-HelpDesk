@@ -13,7 +13,7 @@ Pass = getpass.getpass("Password(It's Hidden!): ")
 url1 = "https://support.uillinois.edu/CAisd/pdmweb.exe"
 
 def Ezticket():
-    driver = webdriver.Chrome('C:\\Users\\achan40\\Desktop\\PScripts\\chrome74driver')
+    driver = webdriver.Chrome('C:\\Users\\Work\\Desktop\\QOL-HelpDesk\\PScripts\\chromedriver80')
     
     driver.get(url1) #opens first tab
     NetID = driver.find_element_by_id("netid")#selects the element given name
