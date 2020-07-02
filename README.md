@@ -31,5 +31,3 @@ This script is open source, all yours to play around with.(really only works on 
 
 WHEN YOU MOVE TO A DIFFERENT USER MAKE SURE YOU UPDATE THE webdriver.Chrome() location area
 
-Where is one.py?
-...
