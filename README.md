@@ -2,7 +2,7 @@
 UIUC Help Desk Code
 
 What does this script do (autofillscrambles.py)?
-The updated version of three.py, automatically indexes and matches to select a ticket and autofills it. Super proud of this one. 
+The updated version of three.py, automatically indexes and matches to select a ticket and autofills it.
 
 Security Issues?
 Don't think so, you input your personal Netid and password information only once, and that data is lost the moment
