@@ -4,11 +4,6 @@ UIUC Help Desk Code
 What does this script do (autofillscrambles.py)?
 The updated version of three.py, automatically indexes and matches to select a ticket and autofills it.
 
-Security Issues?
-Don't think so, you input your personal Netid and password information only once, and that data is lost the moment
-you exit out of the console. Clients NetID/UIN information are only saved for the instance, once you exit out, everything 
-is gone.
-
 1. Install Python 3.7.3 (ONLY YOUR USER)
 	*Choose add to PATH when installing, this is extremely important (enviornment variables)
 2. Download the get-pip.py file
